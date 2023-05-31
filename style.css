@@ -1,0 +1,8 @@
+*{ padding: 0; margin: 0; box-sizing: border-box;}
+
+.body{ background: #656D75;}
+
+#outil img{ width: 90px; height: 90px;}
+.img-fluid{
+    padding-bottom: 10%;
+}
